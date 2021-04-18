@@ -52,5 +52,5 @@ python3 bot.py
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell)
+* [🅁🄾🄲🄺🅁🄴🄳🄳🄸](https://telegram.dog/Reddi404) 
+* [Hack Crack MASTER](https://telegram.dog/Hack_Crack_MASTER)
