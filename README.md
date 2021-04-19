@@ -29,7 +29,7 @@ sudo apt install ffmpeg
 
 ```sh
 git clone https://github.com/Yallaraddi/Zee5
-cd Zee5-Downloader
+cd Zee5
 pip3 install -r requirements.txt
 python3 bot.py
 ```
