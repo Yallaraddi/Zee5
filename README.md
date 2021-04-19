@@ -1,4 +1,4 @@
-## Zee5 Downloader
+## Zee5 STREAM URL DOWNLOAD
 If you find any bugs, report at @REDDI404
 
 **My Features**:
