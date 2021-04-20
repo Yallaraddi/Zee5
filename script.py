@@ -41,7 +41,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 <i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
 """    
     
-    UPGRADE_TEXT = "PING at @REDDI404"
+    UPGRADE_TEXT = "PING at @REDDI404 & @Zee5Reddi_bot"
     
     DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
     
@@ -59,7 +59,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
     
     NO_THUMB = "SED😕 No saved thumbnails Found!!"
     
-    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @REDDI404</b>"
+    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @REDDI404\n@Zee5Reddi_bot</b>"
     
     TIMEOUT = "<b><i>Sorry for the delay. It'll help reduce the flood wait</i> 😇\n\nWait for {} sec and try again.</b>"
     
